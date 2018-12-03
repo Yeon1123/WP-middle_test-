@@ -1,0 +1,67 @@
+body{
+  font-size: 14px;
+}
+img{
+  width: 100px;
+}
+
+#header{
+  text-align: center;
+}
+#change1{
+  font-weight: bold;
+}
+#change2{
+  font-style: italic;
+  text-decoration: underline;
+}
+#change3{
+  color:blue;
+  font-weight: bold;
+}
+
+.maintable{ border-collapse:collapse;
+  margin-left: auto;
+  margin-right: auto; }
+
+.maintable th, .maintable td { border:1px solid black; }
+
+caption h2{
+  font-weight: bold;
+  text-decoration: underline;
+  font-style:italic;
+}
+
+
+.line td{
+  text-align: center;
+  background-color: gray;
+}
+th{
+  background-color: black;
+  color: white;
+}
+
+td{
+  text-align:left;
+}
+
+.title{
+  font-weight: bold;
+}
+#foot td h2{
+  font-weight: bold;
+  color:blue;
+  text-align: center;
+  border: none;
+}
+
+#link{
+  display: inline;
+}
+
+#maintable2{
+  border-collapse:collapse;
+
+    margin-left: auto;
+    margin-right: auto; }
